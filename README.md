@@ -1,1 +1,1 @@
-# 30days_pyhton_challenge
+# 30days_python_challenge
